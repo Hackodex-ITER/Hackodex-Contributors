@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  /* padding-bottom: 20px; */
+}
+
+h1 {
+  font-family: 'Bigelow Rules', cursive;
+  font-size: 72px;
+  color: #0ccac4;
+}
+.footer{
+  margin-top: 1em;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  background-color: darkslategray;
+}
+.footer a{
+  text-decoration: none;
+  color: wheat;
+  font-size: 1.5em;
+}
